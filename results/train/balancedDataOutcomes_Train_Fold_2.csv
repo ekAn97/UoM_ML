@@ -1,0 +1,9 @@
+Classifier Name,Training or test set,Number of training samples,Number of non-healthy companies in training sample,True negatives TN,True positive TP,False negatives FN,False positives FP,ROC-AUC
+K-nn,train,744,186,520,85,38,101,0.6944444444444445
+Gaussian NB,train,744,186,492,82,66,104,0.6612903225806451
+SVM,train,744,186,535,57,23,129,0.632616487455197
+LDA,train,744,186,525,70,33,116,0.6586021505376345
+Logistic Regression,train,744,186,531,60,27,126,0.6370967741935484
+Decision Trees,train,744,186,522,72,36,114,0.6612903225806452
+Random Forest,train,744,186,558,160,0,26,0.9301075268817205
+NN,train,744,186,519,69,39,117,0.6505376344086022
